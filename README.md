@@ -2,7 +2,7 @@
 
 ## Remake
 
-* Meachanic and Features
+* Mechanic and Features
 
   * Input System / Player movement / Rotation
   * Bullet / Shooting
